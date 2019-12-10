@@ -22,6 +22,6 @@ jobs:
           npm install
           npm run build
           ifconfig
-          npm run start
+          # npm run start
 
       
